@@ -1,6 +1,6 @@
 
 # Travel-website
-✈️ A Simple Tour or Travel Booking Website using Html, Css &amp; Javascript Hello there, I'm Saritha Rachapudi and I made this Tour&amp;travel Booking Website. 
+✈️ A Simple Tour or Travel Booking Website using Html, Css &amp; Javascript. Hello there, I'm Saritha Rachapudi and I made this Tour&amp;travel Booking Website. 
 🌐 This Website is made with Html, CSS &amp; Javascript.
 It contains MenuBar, search bar to search hotel/Location, Header,Arrivals, Leaving, destination&amp; Footer as well. 
 It has different modules used are Packages &amp; Contact. 
